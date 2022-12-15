@@ -1,0 +1,5 @@
+export const CREATE_COMMENT = "CREATE_COMMENT";
+export const FETCHED_COMMENT = "FETCHED_COMMENT";
+
+export const HIDE_LOADER = "HIDE_LOADER";
+export const SHOW_LOADER = "SHOW_LOADER";
